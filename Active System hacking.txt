@@ -1,0 +1,7 @@
+Open the kali linux command prompt and type the command as setoolkit 
+Now press 1 for social engineering toolkit. 
+Now press 9 for PowerShell attack.
+For Alphanumeric shell injector press 1, and enter the host ip address and port. 
+Now open the windows 10 and copy the inject file and give extension as .bat 
+In kali linux type the command as sessions –I and id of the sessions. Now we see that the windows system is attacked.
+ 
